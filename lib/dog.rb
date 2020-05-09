@@ -1,3 +1,5 @@
 class Dog
-  Dog = ["fido", "snoopy", "lassie"]
+  Dog = "fido"
+  Dog = "snoopy"
+  Dog = "lassie"
 end
